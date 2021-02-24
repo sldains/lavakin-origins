@@ -21,5 +21,6 @@ A creature of the Nether born from lava.
 I built and balanced this datapack on a modpack with beefed up enemies so I can't attest to its balance for a more normal minecraft experience. 
 
 This is a origin where the Nether is life and the Overworld is filled with perils. 
-It reverses the normal Minecraft fear of lava to replace it for a distrust of water without making water just death (like hydrophobia). 
+It reverses the normal Minecraft fear of lava to replace it for a distrust of water without making water just death (like hydrophobia).
+
 For the best experience I suggest pairing this with the mod Better Nether. 

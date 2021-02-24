@@ -15,6 +15,7 @@ A creature of the Nether born from lava.
 - More fall damage
 - Lower max health
 - Nether Spawn
-- Obsidian Shell: water/cold blocks causes a hard shell of obsidian to form resulting in Resistance 2 and Slowness 5
+- Obsidian Shell: water/cold blocks causes a hard shell of obsidian to form
+                  resulting in Resistance 2 and Slowness 5
 ```
 I built and balanced this datapack on a modpack with beefed up enemies so I can't attest to its balance for a more normal minecraft experience. 
